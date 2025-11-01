@@ -1,0 +1,23 @@
+2025-11-01T14:33:12.936+09:00  INFO 6880 --- [ch12-mcp-server-stdio-datetime] [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 21.0.8 with PID 6880 (C:\kosa-course\projects\07-spring-ai\spring-ai\ch12-mcp-server-stdio-datetime\build\classes\java\main started by KOSA in C:\kosa-course\projects\07-spring-ai\spring-ai\ch12-mcp-server-stdio-datetime)
+2025-11-01T14:33:12.941+09:00  INFO 6880 --- [ch12-mcp-server-stdio-datetime] [main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2025-11-01T14:33:14.532+09:00  INFO 6880 --- [ch12-mcp-server-stdio-datetime] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable tools capabilities, notification: true
+2025-11-01T14:33:14.534+09:00  INFO 6880 --- [ch12-mcp-server-stdio-datetime] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable resources capabilities, notification: true
+2025-11-01T14:33:14.535+09:00  INFO 6880 --- [ch12-mcp-server-stdio-datetime] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable prompts capabilities, notification: true
+2025-11-01T14:33:14.536+09:00  INFO 6880 --- [ch12-mcp-server-stdio-datetime] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable completions capabilities
+2025-11-01T14:33:14.989+09:00  INFO 6880 --- [ch12-mcp-server-stdio-datetime] [main] com.example.demo.DemoApplication         : Started DemoApplication in 3.457 seconds (process running for 4.194)
+2025-11-01T14:42:52.117+09:00  INFO 21548 --- [ch12-mcp-server-stdio-datetime] [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 21.0.8 with PID 21548 (C:\kosa-course\projects\07-spring-ai\spring-ai\ch12-mcp-server-stdio-datetime\build\classes\java\main started by KOSA in C:\kosa-course\projects\07-spring-ai\spring-ai\ch12-mcp-server-stdio-datetime)
+2025-11-01T14:42:52.121+09:00  INFO 21548 --- [ch12-mcp-server-stdio-datetime] [main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2025-11-01T14:42:54.055+09:00  INFO 21548 --- [ch12-mcp-server-stdio-datetime] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable tools capabilities, notification: true
+2025-11-01T14:42:54.217+09:00  INFO 21548 --- [ch12-mcp-server-stdio-datetime] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Registered tools: 2
+2025-11-01T14:42:54.218+09:00  INFO 21548 --- [ch12-mcp-server-stdio-datetime] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable resources capabilities, notification: true
+2025-11-01T14:42:54.220+09:00  INFO 21548 --- [ch12-mcp-server-stdio-datetime] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable prompts capabilities, notification: true
+2025-11-01T14:42:54.221+09:00  INFO 21548 --- [ch12-mcp-server-stdio-datetime] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable completions capabilities
+2025-11-01T14:42:54.729+09:00  INFO 21548 --- [ch12-mcp-server-stdio-datetime] [main] com.example.demo.DemoApplication         : Started DemoApplication in 3.906 seconds (process running for 4.585)
+2025-11-01T15:42:19.273+09:00  INFO 25052 --- [ch12-mcp-server-stdio-datetime] [Test worker] com.example.demo.DemoApplicationTests    : Starting DemoApplicationTests using Java 21.0.8 with PID 25052 (started by KOSA in C:\kosa-course\projects\07-spring-ai\spring-ai\ch12-mcp-server-stdio-datetime)
+2025-11-01T15:42:19.291+09:00  INFO 25052 --- [ch12-mcp-server-stdio-datetime] [Test worker] com.example.demo.DemoApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2025-11-01T15:42:22.054+09:00  INFO 25052 --- [ch12-mcp-server-stdio-datetime] [Test worker] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable tools capabilities, notification: true
+2025-11-01T15:42:22.244+09:00  INFO 25052 --- [ch12-mcp-server-stdio-datetime] [Test worker] o.s.a.m.s.a.McpServerAutoConfiguration   : Registered tools: 2
+2025-11-01T15:42:22.244+09:00  INFO 25052 --- [ch12-mcp-server-stdio-datetime] [Test worker] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable resources capabilities, notification: true
+2025-11-01T15:42:22.245+09:00  INFO 25052 --- [ch12-mcp-server-stdio-datetime] [Test worker] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable prompts capabilities, notification: true
+2025-11-01T15:42:22.247+09:00  INFO 25052 --- [ch12-mcp-server-stdio-datetime] [Test worker] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable completions capabilities
+2025-11-01T15:42:23.054+09:00  INFO 25052 --- [ch12-mcp-server-stdio-datetime] [Test worker] com.example.demo.DemoApplicationTests    : Started DemoApplicationTests in 4.5 seconds (process running for 9.365)

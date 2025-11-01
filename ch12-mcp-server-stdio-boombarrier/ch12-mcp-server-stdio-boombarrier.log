@@ -1,0 +1,16 @@
+2025-11-01T14:49:31.505+09:00  INFO 24348 --- [ch12-mcp-server-stdio-boombarrier] [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 21.0.8 with PID 24348 (C:\kosa-course\projects\07-spring-ai\spring-ai\ch12-mcp-server-stdio-boombarrier\build\classes\java\main started by KOSA in C:\kosa-course\projects\07-spring-ai\spring-ai\ch12-mcp-server-stdio-boombarrier)
+2025-11-01T14:49:31.508+09:00  INFO 24348 --- [ch12-mcp-server-stdio-boombarrier] [main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2025-11-01T14:49:33.391+09:00  INFO 24348 --- [ch12-mcp-server-stdio-boombarrier] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable tools capabilities, notification: true
+2025-11-01T14:49:33.585+09:00  INFO 24348 --- [ch12-mcp-server-stdio-boombarrier] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Registered tools: 3
+2025-11-01T14:49:33.585+09:00  INFO 24348 --- [ch12-mcp-server-stdio-boombarrier] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable resources capabilities, notification: true
+2025-11-01T14:49:33.586+09:00  INFO 24348 --- [ch12-mcp-server-stdio-boombarrier] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable prompts capabilities, notification: true
+2025-11-01T14:49:33.589+09:00  INFO 24348 --- [ch12-mcp-server-stdio-boombarrier] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable completions capabilities
+2025-11-01T14:49:34.080+09:00  INFO 24348 --- [ch12-mcp-server-stdio-boombarrier] [main] com.example.demo.DemoApplication         : Started DemoApplication in 3.425 seconds (process running for 4.811)
+2025-11-01T15:37:55.077+09:00  INFO 13420 --- [ch12-mcp-server-stdio-boombarrier] [Test worker] com.example.demo.DemoApplicationTests    : Starting DemoApplicationTests using Java 21.0.8 with PID 13420 (started by KOSA in C:\kosa-course\projects\07-spring-ai\spring-ai\ch12-mcp-server-stdio-boombarrier)
+2025-11-01T15:37:55.078+09:00  INFO 13420 --- [ch12-mcp-server-stdio-boombarrier] [Test worker] com.example.demo.DemoApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2025-11-01T15:37:56.051+09:00  INFO 13420 --- [ch12-mcp-server-stdio-boombarrier] [Test worker] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable tools capabilities, notification: true
+2025-11-01T15:37:56.154+09:00  INFO 13420 --- [ch12-mcp-server-stdio-boombarrier] [Test worker] o.s.a.m.s.a.McpServerAutoConfiguration   : Registered tools: 3
+2025-11-01T15:37:56.154+09:00  INFO 13420 --- [ch12-mcp-server-stdio-boombarrier] [Test worker] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable resources capabilities, notification: true
+2025-11-01T15:37:56.155+09:00  INFO 13420 --- [ch12-mcp-server-stdio-boombarrier] [Test worker] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable prompts capabilities, notification: true
+2025-11-01T15:37:56.156+09:00  INFO 13420 --- [ch12-mcp-server-stdio-boombarrier] [Test worker] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable completions capabilities
+2025-11-01T15:37:56.379+09:00  INFO 13420 --- [ch12-mcp-server-stdio-boombarrier] [Test worker] com.example.demo.DemoApplicationTests    : Started DemoApplicationTests in 1.691 seconds (process running for 3.331)
