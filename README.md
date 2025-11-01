@@ -1,2 +1,3 @@
 # spring-ai
-수업 내용
+Spring AI 수업 내용  
+
